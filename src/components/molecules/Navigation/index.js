@@ -6,7 +6,7 @@ const Navigation = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-info">
       <div className="container-fluid">
         <a className="navbar-brand" href="">
-          Navbar
+          Navigation
         </a>
         <button
           className="navbar-toggler"
